@@ -1,0 +1,387 @@
+
+
+/* Frame 3 */
+
+/* Auto layout */
+.Frame3{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 525px;
+height: 48px;
+left: 812px;
+top: 27px;
+}
+
+
+/* Frame 2 */
+
+/* Auto layout */
+.Frame2{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 282px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+/* Home */
+.Home{
+width: 51px;
+height: 22px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #3A3740;
+
+
+/* Inside auto layout */  
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.Flash{
+    width: 55px;
+    height: 22px;
+    padding-right: 28px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    color: #3A3740;
+    
+    
+    /* Inside auto layout */  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+
+/* Flashcard */
+.Flashcard{
+  width: 82px;
+  height: 27px;
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  color: #3A3740;
+  
+  
+  /* Inside auto layout */  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Contact */
+.Contact{
+
+width: 68px;
+height: 22px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #3A3740;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+/* FAQ */
+.FAQ{
+
+width: 35px;
+height: 22px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #3A3740;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1 */
+
+/* Auto layout */
+.Frame1{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 40px;
+gap: 10px;
+
+width: 128px;
+height: 48px;
+
+background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+/* Login */
+
+.Login{
+
+width: 48px;
+height: 22px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.Component40{
+  padding-left: 2rem;
+  padding-top: 2rem;
+
+}
+
+.homebutton{
+  padding-left: 5rem;
+  
+}
+
+
+.frame1{
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+
+height: 67px;
+left: 50px;
+top: 100px;
+font-size: 15px;
+font-style:'Arial';
+}
+.symbol1{
+  font-size: 18px;
+  /* padding-left: 0.5px; */
+  
+}
+
+.symbol2{
+  font-size: 18px;
+}
+.Flashcard{
+   width: 65px;
+   font-size: 14px;
+   padding-top: 0.5rem;
+}
+.Relation{
+   
+   background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip:text;
+}
+
+.relation2{
+font-family: 'Arial';
+font-size: 38px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 8%;
+margin-left: 3.6rem;
+width: 676px;
+height: 39px;
+top: spx;
+padding-bottom: 1rem;
+
+
+
+  background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip:text;
+}
+
+
+.Frame5{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 40px;
+gap: 10px;
+margin-left: 43rem;
+width: 128px;
+height: 48px;
+}
+.study{
+  padding-right: 3rem;
+  background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip:text;
+  font-weight: bold;
+}
+.Quiz{
+  padding-right: 3rem;
+  background: linear-gradient(180deg, #06286E 0%, #808080 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip:text;
+  font-weight: bold;
+}
+
+.test{
+  padding-right: 3rem;
+  padding-right: 3rem;
+  background: linear-gradient(180deg, #06286E 0%, #808080 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip:text;
+  font-weight: bold;
+}
+
+.game{
+  padding-right: 3rem;
+  padding-right: 3rem;
+  background: linear-gradient(180deg, #06286E 0%, #808080 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip:text;
+  font-weight: bold;
+}
+
+.others{
+  padding-right: 3rem;
+  background: linear-gradient(180deg, #06286E 0%, #808080 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip:text;
+  font-weight: bold;
+}
+
+.layout{
+margin-left: 26rem;
+width: 712px;
+height: 393.19px;
+border-radius: 42.51px;
+
+background: linear-gradient(222.94deg, #051A91 -4.31%, #061C93 14.41%, #2284F1 81.88%, #1F80EB 103.81%);
+
+
+}
+
+.speaker{
+  padding-top: 1rem;
+  margin-top: -2rem;
+ margin-left:40rem;
+width: 25.5px;
+height: 24.85px;
+top: 4.58px;
+left: 4.25px;
+
+
+
+}
+.bulb{
+  padding-left: 2rem;
+  padding-top: 2rem;
+  width: 19.84px;
+height: 28.34px;
+top: 2.83px;
+left: 7.08px;
+
+}
+
+.frame19{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+
+padding: 13px 40px;
+gap: 10px;
+margin-left: 6rem;
+width: 128px;
+height: 48px;
+}
+
+.hygges{
+  padding-top: 9rem;
+  padding-left: 68rem;
+}
+
+.create{
+  padding-top:11rem;
+  margin-left: 50px;
+  padding-left:40rem;
+}
+
+.faq{
+  
+  padding-top: 23rem;
+  padding-left: 11rem;
+  
+}
+.fam{
+  padding-top: 5rem;
+  padding-left: 10rem;
+  padding-bottom:20rem;
+}
+
+
+
+
+
